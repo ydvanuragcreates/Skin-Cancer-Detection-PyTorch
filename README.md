@@ -5,7 +5,7 @@ This project is a deep learning solution for classifying skin lesions as benign 
 ### Demo: Live Prediction on Validation Data
 Here are some examples of the model's predictions on unseen validation images:
 
-![Prediction 1](https://drive.google.com/file/d/12R17kdOvD5RSvZDd0U2VjwI6oIsj_iuO/view?usp=drive_link)
+![Prediction 1](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/final_prediction_score.png)
 
 
 ---
