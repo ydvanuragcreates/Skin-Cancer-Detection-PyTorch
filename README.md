@@ -66,4 +66,4 @@ The results show our strategy was a success. We achieved our goal of **High Reca
 
 ## 📜 Report
 
-For a detailed analysis, please see the full [Project_Report.pdf](Report.pdf).
+For a detailed analysis, please see the full [Project_Report.pdf](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/Deep%20Learning%20for%20Malignant%20Melanoma%20Detection%20on%20the%20ISIC%202020%20Dataset.pdf).
