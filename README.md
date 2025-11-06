@@ -42,7 +42,7 @@ The model was trained for 10 epochs, with the best model (based on `Val AUC`) sa
 ### ROC Curve
 The final AUC of 0.8523 shows a strong ability to distinguish between the two classes (where 0.5 is random guessing).
 
-![ROC Curve]([link_to_your_roc_curve.png](https://drive.google.com/file/d/1Su9zWpqBHoDgHJd7SlCOkQcsKaLJH9j1/view?usp=drive_link))
+![ROC Curve](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/ROC_Curve.png)
 
 ### Confusion Matrix & Classification Report
 The results show our strategy was a success. We achieved our goal of **High Recall (91%)**, meaning the model successfully found 91% (107 out of 117) of the *actual* cancer cases in the validation set. This came at the necessary trade-off of low precision (many false alarms), which is the correct and safe strategy for a medical screening tool.
@@ -55,7 +55,7 @@ The results show our strategy was a success. We achieved our goal of **High Reca
 ## 🚀 How to Use
 
 1.  Download the repository.
-2.  Download the trained model weights: [`best_pytorch_model.pth`](link_to_your_model_on_google_drive.pth)
+2.  Download the trained model weights: [`best_pytorch_model.pth`](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/best_pytorch_model.pth)
 3.  Install the required libraries:
     ```bash
     pip install timm torchmetrics torch torchvision pandas
