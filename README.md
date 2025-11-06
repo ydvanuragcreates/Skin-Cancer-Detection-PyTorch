@@ -47,8 +47,8 @@ The final AUC of 0.8523 shows a strong ability to distinguish between the two cl
 ### Confusion Matrix & Classification Report
 The results show our strategy was a success. We achieved our goal of **High Recall (91%)**, meaning the model successfully found 91% (107 out of 117) of the *actual* cancer cases in the validation set. This came at the necessary trade-off of low precision (many false alarms), which is the correct and safe strategy for a medical screening tool.
 
-![Classification Report](https://drive.google.com/file/d/1a1kGBJx0NkJgTwj2POv6mIo_tePxgN1u/view?usp=drive_link)
-![Confusion Matrix](https://drive.google.com/file/d/1pdTw0PSGEioh9M3gy9Eya8uzSGwqBCIs/view?usp=drive_link)
+![Classification Report](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/classification_report.png)
+![Confusion Matrix](https://github.com/ydvanuragcreates/Skin-Cancer-Detection-PyTorch/blob/main/confusion_matrix.png)
 
 ---
 
